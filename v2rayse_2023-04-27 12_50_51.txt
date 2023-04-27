@@ -1,0 +1,2 @@
+vmess://eyJ2IjoiMiIsInBzIjoi5Lqa6ams6YCKICAxIiwiYWRkIjoieGlhb3h1LmRkd2RhZGsueHl6IiwicG9ydCI6MzQ2MiwiaWQiOiIwMzMyOWNiZi00NTM2LTUyZjctYmM4NC1mZTRhMmU3NTVhYWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJ0bHMifQ==
+trojan://ndey4Bi0cR@xiaoxu.ddwdadk.xyz:43195?type=tcp&security=tls&allowInsecure=1#4.28
